@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-<h1 align="center"><b>Rails-React Backend</b></h3>
+<h1 align="center"><b>Hello Rails Backend</b></h3>
 
 # 📗 Table of Contents
 
@@ -23,9 +23,9 @@
   - [❓ FAQ](#faq)
   - [📝 License](#license)
 
-# 📖 Rails-React Backend <<a id="about-project"></a>
+# 📖 Hello Rails Backend <<a id="about-project"></a>
 
-**Rails-React Backend<** is a Ruby on Rails backend of a web application with PostgreSQL as database. It is the API for the frontend. Link to the front end [here](https://github.com/lordksix/rails-react-frontend).
+**Hello Rails Backend** is a Ruby on Rails backend of a web application with PostgreSQL as database. It is the API for the frontend. Link to the front end [here](https://github.com/lordksix/hello-react-front-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ For example, using Ubuntu:
 
 ```sh
   cd my-desired-folder
-  git clone https://github.com/lordksix/rails-react-backend.git
+  git clone https://github.com/lordksix/hello-rails-back-end.git
 ```
 
 For more information on how to clone or fork a repository:
@@ -95,7 +95,7 @@ For more information on how to clone or fork a repository:
 To install dependencies, the following command must be run in the terminal:
 
 ```sh
-  cd rails-react-backend
+  cd hello-rails-back-end
   bundle install
 ```
 
